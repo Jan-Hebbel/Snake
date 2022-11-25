@@ -7,7 +7,6 @@
 
 #include "shader.h"
 #include "camera.h"
-#include "stb_image.h"
 #include "snake.h"
 #include "snack.h"
 
